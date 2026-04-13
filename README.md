@@ -3,7 +3,8 @@
 ![c048677fb2029c40195ecf4d704f0a48_w200](https://github.com/user-attachments/assets/4afe7ca4-5c45-434d-9003-dc971f03bdc0)
 
 
-
+I AM A BEGINER AND I JUST STARTED TO CODE IN PYTHON <br>
+I WILL UPLOAD MY ALL BEST PORJECTS HERE ON MY PROFILE
 <!--
 **kovidgondhule05/kovidgondhule05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
